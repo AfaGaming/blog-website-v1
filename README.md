@@ -6,7 +6,7 @@ Note: This website does not use a database so all posts you make will be removed
 # DOWNLOADING THE CODE
 This project uses Node.js. Make sure to initialize npm using `npm init`
 
-Required Modules: 
+Required Modules:
 express: `npm i express`
 ejs: `npm i ejs` 
 body parser: `npm i body-parser`
